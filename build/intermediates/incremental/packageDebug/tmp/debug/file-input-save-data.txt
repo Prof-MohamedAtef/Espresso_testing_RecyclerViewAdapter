@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Apr 20 11:14:07 EET 2020
+0.baseType=DIRECTORY
+0.base=/home/prof-mohamed/examPhase/testing/UI-testing/android-fundamentals-apps-v2-master/RecyclerViewEspresso/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
